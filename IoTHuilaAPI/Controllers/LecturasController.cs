@@ -41,5 +41,16 @@ public IActionResult ObtenerLecturas()
 
             return Ok(lectura);
         }
-    }
+    
+    [HttpDelete]
+public IActionResult LimpiarHistorial()
+{
+    _context.Lecturas.RemoveRange(
+        _context.Lecturas
+    );
+
+    _context.SaveChanges();
+
+    return Ok("Historial eliminado");
 }
+}}

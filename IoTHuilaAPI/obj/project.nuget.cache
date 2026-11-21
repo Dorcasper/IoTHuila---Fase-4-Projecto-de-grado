@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9ILH2uw2VRltuGkphSeXtpo9sURJZjGBwcPg1Dg7/FSkDhEjmu/b5tHKHxAUwgE8ATG1hoNb/8vJ08gck20XbA==",
+  "dgSpecHash": "Qu/qORUwrDNkS/92vIBgq+3CdJUYcNRSbtYdVg5TmSu1VBwO5ruD20LogA6LvygyiarbqjKsgZM6L4Vl8imiPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\edfa2\\OneDrive - Universidad Nacional Abierta y a Distancia\\DECIMO SEMESTRE\\PROYECTO DE GRADO\\IoTHuila\\IoTHuilaAPI\\IoTHuilaAPI.csproj",
+  "projectFilePath": "C:\\Users\\edfa2\\OneDrive - Universidad Nacional Abierta y a Distancia\\DECIMO SEMESTRE\\PROYECTO DE GRADO\\IoTHuila\\IoTHuilaApi\\IoTHuilaAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edfa2\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\edfa2\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

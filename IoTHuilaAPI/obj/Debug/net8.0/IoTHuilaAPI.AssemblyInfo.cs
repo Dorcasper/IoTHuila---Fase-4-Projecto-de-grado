@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IoTHuilaAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e323623197f23a0c2c53d39a8543ba5c51234811")]
 [assembly: System.Reflection.AssemblyProductAttribute("IoTHuilaAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IoTHuilaAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

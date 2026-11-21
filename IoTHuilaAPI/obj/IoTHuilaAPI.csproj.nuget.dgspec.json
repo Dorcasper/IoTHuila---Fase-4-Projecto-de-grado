@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edfa2\\OneDrive - Universidad Nacional Abierta y a Distancia\\DECIMO SEMESTRE\\PROYECTO DE GRADO\\IoTHuila\\IoTHuilaAPI\\IoTHuilaAPI.csproj": {}
+    "C:\\Users\\edfa2\\OneDrive - Universidad Nacional Abierta y a Distancia\\DECIMO SEMESTRE\\PROYECTO DE GRADO\\IoTHuila\\IoTHuilaApi\\IoTHuilaAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edfa2\\OneDrive - Universidad Nacional Abierta y a Distancia\\DECIMO SEMESTRE\\PROYECTO DE GRADO\\IoTHuila\\IoTHuilaAPI\\IoTHuilaAPI.csproj": {
+    "C:\\Users\\edfa2\\OneDrive - Universidad Nacional Abierta y a Distancia\\DECIMO SEMESTRE\\PROYECTO DE GRADO\\IoTHuila\\IoTHuilaApi\\IoTHuilaAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edfa2\\OneDrive - Universidad Nacional Abierta y a Distancia\\DECIMO SEMESTRE\\PROYECTO DE GRADO\\IoTHuila\\IoTHuilaAPI\\IoTHuilaAPI.csproj",
+        "projectUniqueName": "C:\\Users\\edfa2\\OneDrive - Universidad Nacional Abierta y a Distancia\\DECIMO SEMESTRE\\PROYECTO DE GRADO\\IoTHuila\\IoTHuilaApi\\IoTHuilaAPI.csproj",
         "projectName": "IoTHuilaAPI",
-        "projectPath": "C:\\Users\\edfa2\\OneDrive - Universidad Nacional Abierta y a Distancia\\DECIMO SEMESTRE\\PROYECTO DE GRADO\\IoTHuila\\IoTHuilaAPI\\IoTHuilaAPI.csproj",
+        "projectPath": "C:\\Users\\edfa2\\OneDrive - Universidad Nacional Abierta y a Distancia\\DECIMO SEMESTRE\\PROYECTO DE GRADO\\IoTHuila\\IoTHuilaApi\\IoTHuilaAPI.csproj",
         "packagesPath": "C:\\Users\\edfa2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edfa2\\OneDrive - Universidad Nacional Abierta y a Distancia\\DECIMO SEMESTRE\\PROYECTO DE GRADO\\IoTHuila\\IoTHuilaAPI\\obj\\",
+        "outputPath": "C:\\Users\\edfa2\\OneDrive - Universidad Nacional Abierta y a Distancia\\DECIMO SEMESTRE\\PROYECTO DE GRADO\\IoTHuila\\IoTHuilaApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edfa2\\AppData\\Roaming\\NuGet\\NuGet.Config",

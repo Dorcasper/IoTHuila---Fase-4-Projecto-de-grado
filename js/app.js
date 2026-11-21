@@ -339,11 +339,15 @@ async function cargarLecturasAPI() {
 
     try {
 
+        console.log("Entró a la API");
+
         const respuesta = await fetch(
             "http://localhost:5214/api/Lecturas"
         );
 
         const datos = await respuesta.json();
+
+        console.log(datos);
 
         lecturas = datos;
 
@@ -353,11 +357,93 @@ async function cargarLecturasAPI() {
 
         actualizarMetricas();
 
+        actualizarContadores();
+
     }
     catch(error){
 
         console.error(error);
 
     }
+
+}async function cargarLecturasAPI() {
+
+    try {
+
+        console.log("Entró a la API");
+
+        const respuesta = await fetch(
+            "http://localhost:5214/api/Lecturas"
+        );
+
+        const datos = await respuesta.json();
+
+        console.log(datos);
+
+        lecturas = datos;
+
+        cargarTabla();
+
+        actualizarGrafica();
+
+        actualizarMetricas();
+
+        actualizarContadores();
+
+    }
+    catch(error){
+
+        console.error(error);
+
+    }
+
+}
+function actualizarContadores(){
+
+    let normales = lecturas.filter(
+        x => x.estado === "Normal"
+    ).length;
+
+    let advertencias = lecturas.filter(
+        x => x.estado === "Advertencia"
+    ).length;
+
+    let criticos = lecturas.filter(
+        x => x.estado === "Crítico"
+    ).length;
+
+    document.getElementById(
+        "contadorNormal"
+    ).innerText = normales;
+
+    document.getElementById(
+        "contadorAdvertencia"
+    ).innerText = advertencias;
+
+    document.getElementById(
+        "contadorCritico"
+    ).innerText = criticos;
+
+}
+async function limpiarHistorial(){
+
+    let confirmar = confirm(
+        "¿Eliminar todas las lecturas?"
+    );
+
+    if(!confirmar){
+
+        return;
+
+    }
+
+    await fetch(
+        "http://localhost:5214/api/Lecturas",
+        {
+            method:"DELETE"
+        }
+    );
+
+    cargarLecturasAPI();
 
 }

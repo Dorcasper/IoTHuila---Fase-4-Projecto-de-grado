@@ -143,3 +143,4 @@ C:\Users\edfa2\OneDrive - Universidad Nacional Abierta y a Distancia\DECIMO SEME
 C:\Users\edfa2\OneDrive - Universidad Nacional Abierta y a Distancia\DECIMO SEMESTRE\PROYECTO DE GRADO\IoTHuila\IoTHuilaAPI\obj\Debug\net8.0\IoTHuilaAPI.pdb
 C:\Users\edfa2\OneDrive - Universidad Nacional Abierta y a Distancia\DECIMO SEMESTRE\PROYECTO DE GRADO\IoTHuila\IoTHuilaAPI\obj\Debug\net8.0\IoTHuilaAPI.genruntimeconfig.cache
 C:\Users\edfa2\OneDrive - Universidad Nacional Abierta y a Distancia\DECIMO SEMESTRE\PROYECTO DE GRADO\IoTHuila\IoTHuilaAPI\obj\Debug\net8.0\ref\IoTHuilaAPI.dll
+C:\Users\edfa2\OneDrive - Universidad Nacional Abierta y a Distancia\DECIMO SEMESTRE\PROYECTO DE GRADO\IoTHuila\IoTHuilaApi\obj\Debug\net8.0\IoTHuilaAPI.sourcelink.json
