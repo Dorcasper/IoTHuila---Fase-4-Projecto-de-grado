@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sBKWyGfWNUHWp6V6DDLIrWFdjBlXHoh2EFryqoCu8gY=",
+  "Source": "IoTHuilaAPI",
+  "BasePath": "_content/IoTHuilaAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
